@@ -1,6 +1,6 @@
 # M1_APP_BasicCalculator
 
-This mini project is based upon scientific calculator using c programing language
+This mini project is based upon calculator which performs basic operation using c programing language
 
 
 
